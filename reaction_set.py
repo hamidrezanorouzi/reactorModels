@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 26 11:47:17 2023
-
-@author: Css
-"""
-
 from reaction import reaction
 
 class reaction_set:

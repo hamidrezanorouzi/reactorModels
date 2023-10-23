@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 26 11:50:46 2023
-
-@author: Css
-"""
-
 import numpy as np
 import math
 from ideal_gas import R
