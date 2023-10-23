@@ -1,6 +1,3 @@
-
-#تغییرات دادم دیتاهای ورودی رو
-
 import numpy as np
 from component import component
 from component_set import component_set
