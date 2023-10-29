@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 26 11:35:24 2023
-
-@author: Css
-"""
-
-R = 8314  
+R = 8314                                           #j/kmol-k or pa-m^3/kmol-k
 
 class ideal_gas:
     

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 26 11:34:08 2023
-
-@author: Css
-"""
-
 from ideal_gas import ideal_gas
 import numpy as np
 from scipy.integrate import quad

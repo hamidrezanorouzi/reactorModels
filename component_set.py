@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 26 11:37:30 2023
-
-@author: Css
-"""
-
 import numpy as np
 from component import component
 

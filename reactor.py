@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 26 11:48:43 2023
-
-@author: Css
-"""
-
-
 import numpy as np
 import math
 from scipy.integrate import solve_ivp
@@ -38,7 +30,7 @@ class reactor:
         self.rQ = self.__Q
 
     def volume(self, z):
-        return self.At*z                                            # Reactor volume (m^3)
+        return self.tubeArea*z                                            # Reactor volume (m^3)
     
     def __Q(self, z):                                                # w/m^2
         return 0.0;
